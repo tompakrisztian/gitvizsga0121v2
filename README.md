@@ -4,3 +4,4 @@ git add . --> hozzáadtam a README.md file-t
 git add . --> létrehoztam a .gitignore file-t és beleírtam a figyelmen kívül hagyjandó kiterjesztéseket
 git branch console --> létrehoztam a console ágat amiben a módosítást fogom végezni
 git checkout--> átváltottam a console ágra
+git commit -m ""---> rögzítettem a app js ben a változtatást
