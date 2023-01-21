@@ -95,4 +95,10 @@ prevBtn.addEventListener("click", prevSong);
 //Ha a zene végetért lépjen a következőre
 audio.addEventListener("ended", nextSong);
 
+windows.addEventListener("load", function(){
+
+    console.log("Az oldal sikeresen betöltődött");
+
+})
+
 
